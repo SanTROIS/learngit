@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+}
+.homepage{
+    width: 100%;
+    height:100%;
+    margin:0px;
+    padding:0px;
+}
+.getHomepage{
+    width: 85%;
+    height: auto;
+    margin: 5px auto;
+}
+.homepage .loading {
+    width: 100%;
+    height:100vh;
+    background: black url("../assets/loading.gif") no-repeat;
+    background-position: 50% 50%;
+}
